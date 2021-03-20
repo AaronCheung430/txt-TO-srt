@@ -18,5 +18,5 @@ If yes, the program will prompt and ask you to enter the name for the new .srt f
 8
 00:02:27,333 --> 00:02:28,766
 也吃了早餐
-
+(empty line)
 ```
