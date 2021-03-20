@@ -5,7 +5,7 @@ Check out my YouTube videos:
 https://www.youtube.com/c/AaronCheung430
 
 ## User Guide
-Download this repository as a .zip. Examples .txt and .srt are included in this repository. Make sure both .txt and .srt files that you wanted to use are in the same folder.
+Download this repository as a .zip. Examples of .txt and .srt are included in this repository. Make sure both .txt and .srt files that you wanted to use are in the same folder.
 Open and execute the .py file. Only type the name of the file (without .txt or .srt). Then the program will tell are both lines of the files matches.
 
 If not, please go through your files again and check.
