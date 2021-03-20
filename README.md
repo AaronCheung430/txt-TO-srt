@@ -12,10 +12,11 @@ If not, please go through your files again and check.
 If yes, the program will prompt and ask you to enter the name for the new .srt file and the new .srt file will be created with your new subtitles in it.
 
 
-* Please be aware that there should be an empty line at the end of the .srt file. As .srt format are as follow:
------
+\*Please be aware that there should be an empty line at the end of the .srt file. As .srt format are as follow:
+
+```text
 8
 00:02:27,333 --> 00:02:28,766
 也吃了早餐
 
--------
+```
