@@ -20,3 +20,7 @@ If yes, the program will prompt and ask you to enter the name for the new .srt f
 也吃了早餐
               (<-- empty line)
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
